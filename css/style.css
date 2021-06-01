@@ -58,7 +58,7 @@ html{
 }
 .background{
   background: rgba(0, 0, 0, 0.6);
-  background-image: url(/images/pexels-mockupeditorcom-205316.jpg);
+  background-image: url(../images/pexels-mockupeditorcom-205316.jpg);
   background-size: cover;
   background-blend-mode: darken;  
   /* opacity: .3px; */
